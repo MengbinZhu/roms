@@ -1,3 +1,3 @@
 # roms
 ROMS-LETKF
-Modified version from Takemasa Code 
+Modified version of the Takemasa Code 
